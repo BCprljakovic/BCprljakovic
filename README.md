@@ -1,9 +1,20 @@
 <h1>Hi, I'm Bogdan!</h1>
 
-<h2>Projects:</h2>
-
+<h2>Software Development Projects:</h2>
+<ul style="list-style-type: circle;">
+  <li><b>C# (.NET Desktop Applications)</b>
+    <ul>
+      <!--<li>Subpoint 1 for C#</li>-->
+    </ul>
+  </li>
+  <li><b>Python</b>
+    <ul>
+      <!--<li>Subpoint 1 for Python</li>-->
+    </ul>
+  </li>
+</ul>
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="BogdanCprljakovic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BogdanCprljakovic | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />][linkedin]
 
-[linkedin]: [https://www.linkedin.com/in/bogdan-cprljakovic/]
+[linkedin]: https://www.linkedin.com/in/bogdan-cprljakovic/
