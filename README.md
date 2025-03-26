@@ -9,7 +9,7 @@
   </li>
   <li><b>Python</b>
     <ul>
-      <!--<li>Subpoint 1 for Python</li>-->
+      <li><a href="https://github.com/BCprljakovic/BMW-Hackathon-Project.git">BMW Hackhathon Project</a></li>
     </ul>
   </li>
 </ul>
